@@ -1,6 +1,6 @@
-# ¡Hola! Bienvenido a mi perfil
-
 <!-- Click [here](https://) to read an English version of this document.-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenido;A%20un%20repositorio%20más)](https://git.io/typing-svg)
 
 Soy actualmente un estudiante de tercer año en una carrera derivada del área informática, también co-fundador de la empresa emergente **Kryonic** en Chile, la cual seguimos congelando algunos proyectos para su próxima revelación 👀
 Además de ser alguien apasionado por la informática como tal, tengo diversas disciplinas a las que estoy adscrito, utilizando todo el conocimiento que puedan ofrecer, busco cumplir mis objetivos y los de mi equipo al priorizar la innovación con altos estándares de calidad.
